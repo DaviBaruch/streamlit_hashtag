@@ -10,7 +10,7 @@ Este projeto foi desenvolvido utilizando **Streamlit** para criação de aplica�
 
 O desenvolvimento foi realizado em formato de **co-working com Gabrielanalytics**, focando na construção de soluções práticas e aplicáveis no mundo real.
 
-O Streamlit é amplamente utilizado para criar aplicações de dados com poucas linhas de código, facilitando a visualização e interação com informações complexas. :contentReference[oaicite:0]{index=0}
+O Streamlit é amplamente utilizado para criar aplicações de dados com poucas linhas de código, facilitando a visualização e interação com informações complexas.
 
 ---
 
