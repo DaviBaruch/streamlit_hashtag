@@ -1,6 +1,6 @@
 # 📊 Projeto de Análise de Dados com Streamlit
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Projeto+com+Streamlit+%F0%9F%9A%80;Data+Science+na+pr%C3%A1tica;Co-working+com+Gabrielanalytics;Visualizando+dados+de+forma+inteligente)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Projeto+com+Streamlit+%F0%9F%9A%80;Data+Science+na+pr%C3%A1tica;Co-working+com+Gabriel-Analytics;Visualizando+dados+de+forma+inteligente)
 
 ---
 
@@ -8,7 +8,7 @@
 
 Este projeto foi desenvolvido utilizando **Streamlit** para criação de aplicações interativas de dados, permitindo transformar análises em interfaces visuais acessíveis.
 
-O desenvolvimento foi realizado em formato de **co-working com Gabrielanalytics**, focando na construção de soluções práticas e aplicáveis no mundo real.
+O desenvolvimento foi realizado em formato de **co-working com Gabriel-Analytics**, focando na construção de soluções práticas e aplicáveis no mundo real.
 
 O Streamlit é amplamente utilizado para criar aplicações de dados com poucas linhas de código, facilitando a visualização e interação com informações complexas.
 
