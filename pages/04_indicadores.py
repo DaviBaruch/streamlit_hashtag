@@ -282,12 +282,12 @@ def create_macd_chart(data: pd.DataFrame, ticker: str) -> go.Figure:
     return fig
 
 
-# Page configuration
-st.set_page_config(
-    page_title="Indicadores Técnicos",
-    page_icon=EMOJIS["indicators"],
-    layout="wide",
-)
+### Page configuration
+##st.set_page_config(
+##    page_title="Indicadores Técnicos",
+##    page_icon=EMOJIS["indicators"],
+##    layout="wide",
+##)
 
 apply_custom_css()
 

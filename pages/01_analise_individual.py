@@ -382,13 +382,13 @@ def format_data_for_export(data: pd.DataFrame) -> pd.DataFrame:
 # Apply custom styling
 apply_custom_css()
 
-# Page configuration
-st.set_page_config(
-    page_title="Análise Individual",
-    page_icon=EMOJIS["individual"],
-    layout="wide",
-    initial_sidebar_state="expanded",
-)
+### Page configuration
+##st.set_page_config(
+##    page_title="Análise Individual",
+##    page_icon=EMOJIS["individual"],
+##    layout="wide",
+##    initial_sidebar_state="expanded",
+##)
 
 # Title
 st.title(f"{EMOJIS['individual']} Análise Individual de Ativos")

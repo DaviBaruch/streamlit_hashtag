@@ -281,11 +281,11 @@ def create_metrics_table(data_dict: Dict[str, pd.DataFrame]) -> Optional[pd.Data
 
 apply_custom_css()
 
-st.set_page_config(
-    page_title="Comparação de Ativos",
-    page_icon=EMOJIS["comparison"],
-    layout="wide",
-)
+--st.set_page_config(
+--    page_title="Comparação de Ativos",
+--    page_icon=EMOJIS["comparison"],
+--    layout="wide",
+--)
 
 st.title(f"{EMOJIS['comparison']} Comparação de Ativos")
 st.markdown("Compare múltiplos ativos com análise de performance e correlação")

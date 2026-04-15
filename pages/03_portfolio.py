@@ -133,12 +133,12 @@ def create_contribution_chart(contributions: Dict[str, float]) -> go.Figure:
     return fig
 
 
-# Page configuration
-st.set_page_config(
-    page_title="Análise de Portfólio",
-    page_icon=EMOJIS["portfolio"],
-    layout="wide",
-)
+### Page configuration
+##st.set_page_config(
+##    page_title="Análise de Portfólio",
+##    page_icon=EMOJIS["portfolio"],
+##    layout="wide",
+##)
 
 apply_custom_css()
 
